@@ -1,6 +1,3 @@
-# this is my first class
-# this class is created to hundle request to orange funbox
-
 #import httplib
 #httplib.HTTPConnection.debuglevel = 5
 
