@@ -23,7 +23,7 @@ funbox = funbox.FunBox("http://192.168.1.1", "put_password_here")
 # Now you can use the module methods:
 import json
 info = funbox.DeviceInfo()
-print json.dumps(info, indent=4)
+print (json.dumps(info, indent=4))
 
 # If needed, reconnect to funbox:
 funbox.reconnect()
