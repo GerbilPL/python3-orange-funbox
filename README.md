@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-This module is written in python 2
+This modul has been ported to python 3
 
 ### How to install
 
